@@ -1,0 +1,1 @@
+import{r as e,a as r}from"./index.8d209275.js";import{H as t}from"./HomeBredCurbs.56396cea.js";import"./index.esm.f6a38425.js";const i=()=>(e.exports.useState("usa"),r("div",{children:r(t,{title:"Profile Page "})}));export{i as default};
